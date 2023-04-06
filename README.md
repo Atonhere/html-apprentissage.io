@@ -16,7 +16,7 @@
         </div>
         <div>
             <h2>titre H2 - Photos</h2>
-            <img src="!logo-htmlhttps://user-images.githubusercontent.com/129393483/230386061-04802437-bc0d-433c-9ca6-a3e409b04bd0.png" alt="photo logo html 5">
+            <img src="logo-html.png" alt="photo logo html 5">
         </div> 
         <div>
             <h3>titre H3</h3>
