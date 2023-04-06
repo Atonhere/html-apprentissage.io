@@ -1,15 +1,2 @@
 # html-apprentissage.io
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- titre de la page -->
-    <title>Apprentissage html</title>
-    <!-- icône de l'onglet -->
-    <link rel="shortcut" href="logo-html.png">
-</head>
-<body>
-    bonjour
-</body>
-</html>
+[index.html.txt](https://github.com/Atonhere/html.github.io/files/11170382/index.html.txt)
