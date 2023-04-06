@@ -9,7 +9,7 @@
     <link rel="shortcut" href="logo-html.png">
 </head>
 <body>
-    <header></header>
+    <header>
         <div>
             <h1>titre H1</h1>
             <p>texte. <em>texte italique.</em> <strong>texte en gras.</strong>
@@ -38,7 +38,7 @@
         </div> 
         <div>
             <h4>titre H4 - Tableaux</h4>
-            <table border="1" width="50%">
+            <table bord="1" width="50%">
                 <!-- légende -->
                 <caption>Population d'europe</caption>
                 <!-- En tête -->
