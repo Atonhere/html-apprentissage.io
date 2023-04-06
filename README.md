@@ -12,10 +12,11 @@
     <section>
         <div>
             <h1>titre H1</h1>
-            <p>texte. <em>texte italique</em> </p>
+            <p>texte. <em>texte italique.</em> <strong>texte en gras</strong> </p>
         </div>
         <div>
-            <h2>titre H2</h2>
+            <h2>titre H2 - Photos</h2>
+            <img src="logo-html.png" alt="photo logo html 5">
         </div> 
         <div>
             <h3>titre H3</h3>
