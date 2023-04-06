@@ -1,4 +1,3 @@
-# html-apprentissage.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,22 +11,23 @@
 <body>
     <section>
         <div>
-            <h1>titre -H1</h1>
+            <h1>titre H1</h1>
+            <p>texte. <em>texte italique</em> </p>
         </div>
         <div>
-            <h2>titre -H2</h2>
+            <h2>titre H2</h2>
         </div> 
         <div>
-            <h3>titre -H3</h3>
+            <h3>titre H3</h3>
         </div> 
         <div>
-            <h4>titre -H4</h4>
+            <h4>titre H4</h4>
         </div> 
         <div>
-            <h5>titre -H5</h5>
+            <h5>titre H5</h5>
         </div> 
         <div>
-            <h6>titre -H6</h6>
+            <h6>titre H6</h6>
         </div>
     </section>
 </body>
