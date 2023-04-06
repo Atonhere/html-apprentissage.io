@@ -11,9 +11,8 @@
 <body>
     <header>
         <div>
-            <h1>titre H1</h1>
-            <p>texte. <em>texte italique.</em> <strong>texte en gras.</strong>
-            <span>l'élement en span ne revient pas à la ligne</span>.</p>
+            <h1><span>&#9998;</span>titre H1</h1>
+            <p>texte. <em>texte italique.</em> <strong>texte en gras.</strong><span>l'élement en span ne revient pas à la ligne</span>.</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil deleniti necessitatibus praesentium repudiandae ducimus.
                Dignissimos voluptatibus eligendi aliquid sunt, molestias asperiores tempore quos quisquam, mollitia vel minus neque provident totam?</p>
     </header>
@@ -38,7 +37,7 @@
         </div> 
         <div>
             <h4>titre H4 - Tableaux</h4>
-            <table bord="1" width="50%">
+            <table border="1" width="50%">
                 <!-- légende -->
                 <caption>Population d'europe</caption>
                 <!-- En tête -->
@@ -66,7 +65,12 @@
             </table>
         </div> 
         <div>
-            <h5>titre H5</h5>
+            <h5>titre H5 - Liens</h5>
+            <a href="https://htmlcheatsheet.com/"
+               targets=_blank> HTML cheats sheet</a>
+            <br>
+            <a href="https://www.toptal.com/designers/htmlarrows/symbols/"
+               targets="_blank">Icônes en HTML</a>
         </div> 
         <div>
             <h6>titre H6</h6>
